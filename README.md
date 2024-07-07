@@ -18,3 +18,6 @@
     * git commit -m "added readme and link whatsapp" 
     * git branch -M main 
     * git push -u origin main   |   git push
+
+## Comando forca o upload de todo o projeto novamente
+    * git push --force origin main
