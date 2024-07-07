@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Aversa;Adriana;;;
+FN:Adriana Aversa
+NICKNAME:Dra.
+ORG:Aversa & Montenaro Advogados Associados;
+TITLE:S�cio
+TEL;TYPE=VOICE,WORK;VALUE=text:+55 21 99125-8168
+EMAIL;TYPE=HOME,INTERNET,pref:aversaemontenaro@gmail.com
+ADR;TYPE=WORK:;;Av. Pres. Vargas, 633 - sala: 502;Rio de Janeiro;RJ;20071-004;Brazil
+URL;TYPE=WORK:www.aversaemontenaro.com.br
+END:VCARD
